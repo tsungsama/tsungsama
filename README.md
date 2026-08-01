@@ -1,10 +1,3 @@
-### Diego Rondon
----
-
-Mostly a back-end web programmer focused on corporate solutions for process optimization and business growth, always eager to learn and collaborate with teams 🙆‍♂️
-
----
-
 ### About me
 
 - 🏢 I specialize in developing for ERP applications and vertical SaaS for operations
